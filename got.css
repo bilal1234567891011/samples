@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,800&display=swap');
+
+body{
+    background-image: url(./images/adrien-olichon-ilVYjf0J378-unsplash.jpg);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+
+    
+}
+div{
+    background-color: white;
+    width: 17%;
+    height: 600px;
+    float: left;
+    border: 3px white groove;
+    margin-left: 80px;
+    
+}
+img{
+    width: 100%;
+    height: 600px;
+
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    font-size: x-large;
+    font size-adjust: 300px;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    margin-right: 58px;
+    margin-top: 666px;
+    
+}
+H4{
+    color: white;
+}
